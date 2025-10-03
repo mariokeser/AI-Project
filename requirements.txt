@@ -1,0 +1,3 @@
+openai==1.109.0
+streamlit==1.49.1
+streamlit-js-eval==0.1.7
